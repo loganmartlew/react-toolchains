@@ -1,0 +1,19 @@
+{
+  "name": "react-toolchains",
+  "version": "1.0.0",
+  "description": "Custom boilerplate react apps through the npx CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganmartlew/react-toolchains.git"
+  },
+  "author": "Logan Martlew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganmartlew/react-toolchains/issues"
+  },
+  "homepage": "https://github.com/loganmartlew/react-toolchains#readme"
+}
