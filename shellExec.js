@@ -30,7 +30,7 @@ const shellExec = cmd => {
 
     child.on('close', code => {
       console.log(`child process exited with code ${code.toString()}`);
-      console.log(object);
+      console.log();
       resolve();
     });
   });
