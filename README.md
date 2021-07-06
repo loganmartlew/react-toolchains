@@ -14,6 +14,7 @@ Using npm:
 `npx react-toolchains <project-type> <project-directory> [options]`
 
 `project-type`: framework to use, either 'react' or 'next'
+
 `project-directory`: relative directory to generate the project, passed as first argument to `create-react-app` or `create-next-app`
 
 Options:
