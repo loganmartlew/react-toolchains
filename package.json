@@ -1,6 +1,6 @@
 {
   "name": "react-toolchains",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom boilerplate react apps through the npx CLI",
   "main": "index.js",
   "scripts": {},
