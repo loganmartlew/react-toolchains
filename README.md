@@ -18,10 +18,11 @@ Using npm:
 `project-directory`: relative directory to generate the project, passed as first argument to `create-react-app` or `create-next-app`
 
 Options:
-`-V, --version`: output the version number
-`-ts, --typescript`: use typescript for this project
-`-sc, --styled-components`: use styled-components for this project
-`-h, --help`: display help for command
+
+- `-V, --version`: output the version number
+- `-ts, --typescript`: use typescript for this project
+- `-sc, --styled-components`: use styled-components for this project
+- `-h, --help`: display help for command
 
 ### Frameworks
 
