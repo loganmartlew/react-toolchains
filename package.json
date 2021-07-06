@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Custom boilerplate react apps through the npx CLI",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
+  "bin": "./cli.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/loganmartlew/react-toolchains.git"
@@ -15,5 +14,12 @@
   "bugs": {
     "url": "https://github.com/loganmartlew/react-toolchains/issues"
   },
-  "homepage": "https://github.com/loganmartlew/react-toolchains#readme"
+  "homepage": "https://github.com/loganmartlew/react-toolchains#readme",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0"
+  }
 }
